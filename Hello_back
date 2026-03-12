@@ -1,0 +1,5 @@
+print("Welcome to MAAI Workshop")
+print("Please write your name here Victoria Landazuri")
+git add.
+git commit - "Initial commit"
+push -u origin main
